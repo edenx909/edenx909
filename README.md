@@ -6,16 +6,15 @@
 
 ### a full-stack web developer passionate about building beautiful, functional, and user-centric web applications.
 
-
-## 🛠️ Languages and Tools
-
-<br>
+## languages & tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,react,nextjs,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,jest" />
   <img src="https://skillicons.dev/icons?i=ae,ps,pr,vscode,figma,bash" />
 </p>
+
+
 
 <hr>
 <!--
