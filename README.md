@@ -5,11 +5,20 @@
 </div>
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
-</h1>
 
 ### a full-stack software engineer with expertise in React, Node.js, Express, PostgreSQL, and Prisma. passionate about building beautiful, functional, and user-centric web applications using HTML, CSS, and JavaScript.
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
+</p>
+
+<hr>
 <!--
 **edenx909/edenx909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
