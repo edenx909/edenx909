@@ -3,8 +3,17 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
 </div>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
+
+### a full-stack software engineer with expertise in React, Node.js, Express, PostgreSQL, and Prisma. passionate about building beautiful, functional, and user-centric web applications using HTML, CSS, and JavaScript.
 <!--
 **edenx909/edenx909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
