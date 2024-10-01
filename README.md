@@ -1,12 +1,10 @@
 
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Profile Views</p>
   <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
 </div>
 
-
-
-### a full-stack software engineer with expertise in React, Node.js, Express, PostgreSQL, and Prisma. passionate about building beautiful, functional, and user-centric web applications using HTML, CSS, and JavaScript.
+### a full-stack web developer passionate about building beautiful, functional, and user-centric web applications.
 
 
 ## 🛠️ Languages and Tools
@@ -14,8 +12,9 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,react,nextjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,jest" />
+  <img src="https://skillicons.dev/icons?i=ae,ps,pr,vscode,figma,bash" />
 </p>
 
 <hr>
