@@ -10,7 +10,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,react,nextjs,postgres,prisma" />
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,jest" />
+  <br>
   <img src="https://skillicons.dev/icons?i=ae,ps,pr,vscode,figma,bash" />
 </p>
 
