@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
 </div>
 
-### a full-stack web developer passionate about building beautiful, functional, and user-centric web applications.
+### a full-stack web developer
 
 ## languages & tools
 
