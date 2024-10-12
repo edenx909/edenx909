@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**edenx909/edenx909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <p>Profile Views</p>
+  <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
+</div>
 
-Here are some ideas to get you started:
+### a front-end alchemist transforming ideas into captivating web experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## languages & tools
+
+<p align="center">
+  <a>passionate about</a>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,githubactions,npm,visualstudio,pr,html,css,js" />
+  <hr>
+   <br>
+  </p>
+  <p align="center">
+  <a>proficient In</a>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,ts,jest,postman" />
+  <hr>
+  <br>
+    </p>
+    <p align="center">
+  <a>familiar with</a>
+  <br>
+  <img src="https://skillicons.dev/icons?i=figma,bash,blender,materialui,threejs,ae,ps" />
+  <hr>
+  <br>
+</p>
