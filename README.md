@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
 </div>
 
-### a front-end alchemist transforming ideas into captivating web experiences
+### a front-end alchemist transforming ideas into cool web experiences
 
 ## languages & tools
 
