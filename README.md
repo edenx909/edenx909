@@ -1,7 +1,7 @@
 
 <div align="center"> 
-  <p>Profile Views</p>
-  <img src="https://profile-counter.glitch.me/edenx909/count.svg" alt="Visitor's Count" />
+ <a>a software developer from Melbourne, Australia</a>
+  <p>see my Portfolio @ https://edenxrana.vercel.app/</p>
 </div>
 
 
