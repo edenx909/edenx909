@@ -1,7 +1,7 @@
 
 <div align="center"> 
  <a>a software developer from Melbourne, Australia</a>
-  <p>see my Portfolio @ https://edenxrana.vercel.app/</p>
+  <p>see my portfolio @ https://edenxrana.vercel.app/</p>
 </div>
 
 
