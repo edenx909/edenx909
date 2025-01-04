@@ -2,7 +2,6 @@
 <div align="center"> 
  <a>a software developer from Melbourne, Australia</a>
   <p>see my portfolio @ https://edenxrana.vercel.app/</p>
- <p>currently working on firelink, a game index using igdb api</p>
 </div>
 
 
