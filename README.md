@@ -1,6 +1,6 @@
 
 <div align="center"> 
- <a>a software developer from Melbourne, Australia</a>
+ <a>i design & code :)</a>
   <p>see my portfolio @ https://edenxrana.vercel.app/</p>
 </div>
 
