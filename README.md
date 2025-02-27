@@ -1,6 +1,5 @@
 
 <div align="center"> 
- <a>i design & code :)</a>
  <p>currently designing for https://morph.so/</p>
   <p>see my portfolio @ https://edenxrana.vercel.app/</p>
 </div>
